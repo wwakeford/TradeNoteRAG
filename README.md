@@ -45,7 +45,7 @@ The system consists of five main components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/trading_notes_analyzer.git
+   git clone https://github.com/wwakeford/TradeNoteRAG.git
    cd trading_notes_analyzer
    ```
 
